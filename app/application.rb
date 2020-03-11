@@ -1,6 +1,6 @@
 class Application 
   
-  def call 
+  def call(time) 
     
   end
   
